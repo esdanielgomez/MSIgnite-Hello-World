@@ -11,4 +11,3 @@ Ignite Sesion: https://myignite.microsoft.com/sessions/30db5375-d345-4ce1-9a40-5
 - [Learn how to program in Python](https://docs.microsoft.com/learn/paths/python-first-steps/)
 - [Learn how to program in C#](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/)
 - [Learn about programming in JavaScript with Node.js](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-nodejs/)
-  - **Note:** This learning path is slightly more advanced, and assumes some knowledge of JavaScript already

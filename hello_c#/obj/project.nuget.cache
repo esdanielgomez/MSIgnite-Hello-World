@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zMIq+qK41LBGOU28z5qTfwxdjQFATlbMerxZ+ACcdORHQ3XdoYCaz9Epqdb5n4We1FGEvMvJ1cpsal2C7Jlemw==",
+  "dgSpecHash": "8DNzsSTw5/YeVPhY/xjxBRjYLhYOqmd/d5sNtlLvLRHV5ZRirvZUhXjwHdCOFowhYzbzwuGrPwl8bl0zjZtL/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniel\\Documents\\GitHub\\MSIgnite-Hello-World\\hello_c#\\build-hello-world.csproj",
+  "projectFilePath": "/Users/shana/src/git/build-hello-world/hello_c#/build-hello-world.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

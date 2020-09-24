@@ -10,16 +10,3 @@
 /Users/shana/src/git/build-hello-world/hello_c#/obj/Debug/netcoreapp3.1/build-hello-world.dll
 /Users/shana/src/git/build-hello-world/hello_c#/obj/Debug/netcoreapp3.1/build-hello-world.pdb
 /Users/shana/src/git/build-hello-world/hello_c#/obj/Debug/netcoreapp3.1/build-hello-world.genruntimeconfig.cache
-C:\Users\Daniel\Documents\GitHub\MSIgnite-Hello-World\hello_c#\bin\Debug\netcoreapp3.1\build-hello-world.exe
-C:\Users\Daniel\Documents\GitHub\MSIgnite-Hello-World\hello_c#\bin\Debug\netcoreapp3.1\build-hello-world.deps.json
-C:\Users\Daniel\Documents\GitHub\MSIgnite-Hello-World\hello_c#\bin\Debug\netcoreapp3.1\build-hello-world.runtimeconfig.json
-C:\Users\Daniel\Documents\GitHub\MSIgnite-Hello-World\hello_c#\bin\Debug\netcoreapp3.1\build-hello-world.runtimeconfig.dev.json
-C:\Users\Daniel\Documents\GitHub\MSIgnite-Hello-World\hello_c#\bin\Debug\netcoreapp3.1\build-hello-world.dll
-C:\Users\Daniel\Documents\GitHub\MSIgnite-Hello-World\hello_c#\bin\Debug\netcoreapp3.1\build-hello-world.pdb
-C:\Users\Daniel\Documents\GitHub\MSIgnite-Hello-World\hello_c#\obj\Debug\netcoreapp3.1\build-hello-world.csprojAssemblyReference.cache
-C:\Users\Daniel\Documents\GitHub\MSIgnite-Hello-World\hello_c#\obj\Debug\netcoreapp3.1\build-hello-world.AssemblyInfoInputs.cache
-C:\Users\Daniel\Documents\GitHub\MSIgnite-Hello-World\hello_c#\obj\Debug\netcoreapp3.1\build-hello-world.AssemblyInfo.cs
-C:\Users\Daniel\Documents\GitHub\MSIgnite-Hello-World\hello_c#\obj\Debug\netcoreapp3.1\build-hello-world.csproj.CoreCompileInputs.cache
-C:\Users\Daniel\Documents\GitHub\MSIgnite-Hello-World\hello_c#\obj\Debug\netcoreapp3.1\build-hello-world.dll
-C:\Users\Daniel\Documents\GitHub\MSIgnite-Hello-World\hello_c#\obj\Debug\netcoreapp3.1\build-hello-world.pdb
-C:\Users\Daniel\Documents\GitHub\MSIgnite-Hello-World\hello_c#\obj\Debug\netcoreapp3.1\build-hello-world.genruntimeconfig.cache
